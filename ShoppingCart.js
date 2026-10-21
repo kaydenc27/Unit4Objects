@@ -20,7 +20,3 @@ const animalListings = [
     { name: "Greyhound", cost: 2500, size: ""},
     { name: "Mastiff", cost: 6000, size: ""}
 ]
-
-function filter {
-    
-}
